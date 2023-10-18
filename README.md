@@ -4,6 +4,8 @@ A bunch of templates for the emulator 86Box, they're tested ALWAYS using the lat
 
 I personally test all created machines with different OS, but also I accept suggestions
 
+Check template to create your machine
+
 My (current) machine:
 
 - Asus Prime Z270-P MOtherboard
