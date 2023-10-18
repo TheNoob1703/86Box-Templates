@@ -1,0 +1,69 @@
+#MACHINE NAME
+
+- Machine Type: ##cpu socket
+Machine: ##motherboard
+CPU: ##type of cpu and speed
+RAM: ##ram size
+
+
+
+- Video: 
+
+Video: ##model and vram size
+Voodoo Graphics: ##only if needed, same as above
+
+
+
+- Input Device:
+
+Mouse: ##type of mouse
+
+
+
+- Sound:
+
+Sound Card: ##port and name of the card
+
+
+
+- Network: ##type of card and model
+
+
+
+- COM and LPT Ports: ##type of port option and list of used ports
+
+
+
+- Storage Controlers: ##type of controller
+
+
+
+- Hard drives: 
+
+Bus: ##type of bus
+Size: ##size of disk
+Speed: ## hard drive emulation speed
+
+
+
+- Floppies and CD-ROM Drives: 
+
+Floppy: ##type of floppy/floppies
+CD-ROM: ##bus, channel, speed and type
+
+
+
+- Other Removable Devices:
+
+MO Drives: ##bus, channel and type
+ZIP Drives: ##bus and channel
+
+
+
+- Other Peripherals:
+
+ISA RTC: ##RTC device
+ISA Memory Expansion: ##expansion card
+
+
+- Operative System: ##specify OS
