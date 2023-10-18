@@ -1,0 +1,69 @@
+#MACHINE NAME
+
+- Machine Type: Socket 7 (Dual Voltage)
+Machine: ASUS P/l-P55WP4
+CPU: Intel Pentium MMX 200
+RAM: 64 MB
+
+
+
+- Video: 
+
+Video: [PCI] S3 Tri064 (Phoenix)
+Voodoo Graphics: 3DFX Voodoo Graphics 8 MB
+
+
+
+- Input Device:
+
+Mouse: Standard PS/2 Mouse
+
+
+
+- Sound:
+
+Sound Card: [ISA16] Sound Blaster AWE32 PnP
+
+
+
+- Network: optional
+
+
+
+- COM and LPT Ports: seriao ports 1 and 2, parallel port 1
+
+
+
+- Storage Controlers: Internal controller (FDD & HDD)
+
+
+
+- Hard drives: 
+
+Bus: IDE (0:0)
+Size: 4096
+Speed: [1996] 5400 RPM
+
+
+
+- Floppies and CD-ROM Drives: 
+
+Floppy: 3.5" 238M
+CD-ROM: ATAPI, 0:1, x32, PHILIPS CD-ROM PCA403CD U31P
+
+
+
+- Other Removable Devices:
+
+MO Drives: none	
+ZIP Drives: none
+
+
+
+- Other Peripherals:
+
+ISA RTC: none
+ISA Memory Expansion: none
+
+
+- Operative System: Windows 95C OSR 2.5
