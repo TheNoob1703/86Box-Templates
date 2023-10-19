@@ -40,7 +40,7 @@ Sound Card: ##port and name of the card
 
 - Hard drives: 
 
-Bus: ##type of bus
+Bus, ID: ##type of bus and ID
 Size: ##size of disk
 Speed: ## hard drive emulation speed
 
