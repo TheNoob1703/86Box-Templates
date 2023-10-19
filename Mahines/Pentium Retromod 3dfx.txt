@@ -1,4 +1,4 @@
-#MACHINE NAME
+PENTIUM RETROMOD 3DFX (REAL MACHINE)
 
 - Machine Type: Socket 7 (Dual Voltage)
 Machine: ASUS P/l-P55WP4
