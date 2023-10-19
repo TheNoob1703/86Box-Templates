@@ -1,0 +1,69 @@
+PACKARD BELL BORA PRO
+
+- Machine Type: Slot 1
+Machine: [i440] Packard Bell Bora Pro
+CPU: Intel Pentium II (Klamath) 233
+RAM: 64 MB
+
+
+
+- Video: 
+
+Video: [PCI] 3dfx Voodoo Banshee
+Voodoo Graphics: None
+
+
+
+- Input Device:
+
+Mouse: Standard PS/2 Mouse
+
+
+
+- Sound:
+
+Sound Card: [ISA16] Sound Blaster AWE32 PnP
+
+
+
+- Network: SLiRp, [PCI] AMD PCnet-FAST III
+
+
+
+- COM and LPT Ports: LPT1 Generic Text Printer, Serial Ports 1 & 2, 1 Parallel port
+
+
+
+- Storage Controlers: Internal HD & FD Controller
+
+
+
+- Hard drives: 
+
+Bus: IDE (0:0)
+Size: 3020 MB
+Speed: [1997] 5400 RPM
+
+
+
+- Floppies and CD-ROM Drives: 
+
+Floppy: 3.5" 720k
+CD-ROM: ATAPI, 0:0, 32x and 86BOX CD-ROM
+
+
+
+- Other Removable Devices:
+
+MO Drives: None
+ZIP Drives: None
+
+
+
+- Other Peripherals:
+
+ISA RTC: None
+ISA Memory Expansion: None
+
+
+- Operative System: https://archive.org/details/17220401win98aug1998cracked (recovery disk working)
