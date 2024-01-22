@@ -1,6 +1,6 @@
 # 86Box-Templates
 
-A bunch of templates for the emulator 86Box, they're tested ALWAYS using the latest 86box build (beta buils and stable)
+A bunch of templates for the emulator 86Box, they're tested ALWAYS using the latest 86box build (beta builds and stable builds)
 
 I personally test all created machines with different OS, but also I accept suggestions
 
