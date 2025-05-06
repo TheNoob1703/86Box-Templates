@@ -8,10 +8,10 @@ Check template to create your machine
 
 My (current) machine:
 
-- Asus Prime Z270-P MOtherboard
-- Intel i7-7700k 4.20 Ghz CPU
-- Corsair Vengeance LPX 2x8 GB DDR4 3200 Mhz RAM (Dual Channel)
-- 2x480 GB Kioxia Exceria SSD SATA Drives and 2 TB Seagate barracuda SATA HDD
-- Windows 11 Pro Operative System (Latest Build)
+- Asus Prime B550-A CSM Motherboard
+- AMD Ryzen 7 5700G 3.80 (4.6 Turbo) Ghz CPU
+- Corsair Vengeance LPX 4x8 GB DDR4 3200 Mhz RAM (Dual Channel Mixed)
+- 1TB SATA SSD Silicon Power, 480 GB Kioxia Exceria SSD SATA Drives and 2 TB Seagate barracuda SATA HDD
+- Windows 10 Enterprise LTSC 2021
 
   
